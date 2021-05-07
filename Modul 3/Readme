@@ -1,1 +1,10 @@
+basic and simple database for company using php and mysql
+created for modul 3 assignment
 
+index.php: the main page if we open the web program. you can add your data there
+connection.php: this file use to call the database from mysql into the program
+insert.php: used as the back end of the index.php. this program use as back-end for index.php so that you can input your data into the index.php
+view.php: used as the "visualization of your data in the database.
+delete.php: functioned so you can delete your data directly from the view.php
+edit.php: functioned so you can change your data in database
+update.php: functioned so you can possibly update the data from edit.php
