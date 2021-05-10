@@ -1,4 +1,5 @@
 basic and simple database for company using php and mysql
+you can use it to add, delete, or edit the database directly
 created for modul 3 assignment
 
 index.php: the main page if we open the web program. you can add your data there
