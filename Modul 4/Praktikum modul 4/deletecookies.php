@@ -1,0 +1,1 @@
+<?php setcookie($_POST['pollID'], "", time() -60*60*24*365);  ?>
