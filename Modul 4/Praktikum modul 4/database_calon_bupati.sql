@@ -40,7 +40,7 @@ CREATE TABLE `polls` (
 --
 
 INSERT INTO `polls` (`id`, `subject`, `created`, `modified`, `status`) VALUES
-(1, 'PEMILU KAB Durukumbang ', '2016-11-07 04:13:13', '2016-11-07 04:13:13', '1');
+(1, 'PEMILU KAB Durukumbang ', '2021-05-03 04:13:13', '2021-05-03 04:13:13', '1');
 
 -- --------------------------------------------------------
 
